@@ -1,10 +1,9 @@
 backend:
-  name: bitbucket
+  name: github
   #repo: owner-name/repo-name # Path to your Bitbucket repository
-  repo: 'https://dhruva_sharma@bitbucket.org/dhruva_sharma/netlify-cms-react.git'
-  #repo: [dhruva_sharma]/[netlify-cms-react]
-  auth_type: implicit
-  app_id: RFuMPZSTwKMUVRzBmc
+  repo: https://github.com/DhruvaSharma/netlify-cms-react.git
+  # auth_type: implicit
+  app_id: 384545d6b5b20233e874b81fc93e3756cf19aaa2
 
 # backend:
 #   name: git-gateway
